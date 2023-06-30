@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UF-8">
+        <title>Lists</title>
+    </head>
+    <body>
+        <h1>MY FAVORITE FOODS LIST</h1>
+        <ul>
+            <li>Pho Me Lam</li>
+            <li>Bun Rieu</li>
+            <li>Bun Bo Hue</li>
+        </ul>
+        <h2>MY TO DO LIST 6/28/23</h2>
+        <ol>
+            <li>Go to Travel KC</li>
+            <li>Create USCIS online</li>
+            <li>Book optometrics oppt</li>
+            <li>Work</li>
+        </ol>
+    </body>\
+    </html>
